@@ -28,7 +28,7 @@ Simple page to handle basic frontend register service
    - Install Yarn (if needed): `npm install -g yarn`
 
 ### Setup
-1. **Clone/Init Project**: Clone the repository or initialize a new Next.js project.
+1. **Clone Project**: Clone this project repository.
 2. **Install Dependencies**: Run:
    ```bash
    yarn install
